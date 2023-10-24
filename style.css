@@ -1,0 +1,24 @@
+html{
+    background-color:rgb(223, 168, 120);
+    font-family: 'Raleway', sans-serif;
+    color:rgb(65, 59, 51)
+}
+h1{
+    color:rgb(240, 228, 199) ;
+}
+h2{
+    color: rgb(206, 230, 243);
+}
+p{
+    font-weight: 700;
+}
+a{
+    color:rgb(250, 248, 237);
+    text-decoration: none;
+}
+
+img{
+    border:solid;
+        border-width: 5pt;
+        border-color: rgb(197, 177, 152);
+}
