@@ -1,8 +1,9 @@
 html{
     background-color:rgb(223, 168, 120);
+    font-weight: 600;
     font-family: 'Raleway', sans-serif;
     color:rgb(65, 59, 51);
-    font-weight: 600;
+    
 }
 h1{
     color:rgb(240, 228, 199) ;
